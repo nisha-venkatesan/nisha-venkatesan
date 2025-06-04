@@ -1,8 +1,8 @@
 ## Hii there 👋 It's me Nisha 
 
- Electronics and Communication Engineering Student 
- <img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F744782857102542704%2F&psig=AOvVaw1Aey8nW9RryfjuICXgPtF9&ust=1749091846677000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCljvP7140DFQAAAAAdAAAAABAE">
- -   Engineering at **PANIMALAR ENGINEERING COLLEGE**
+ 🎓 Electronics and Communication Engineering Student 
+ -  📍 Engineering at **PANIMALAR ENGINEERING COLLEGE**
+ -   <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌱 I’m currently learning Java 
 - 🔍 I’m interested in learning and exploring new technologies.
 - 💞️ I’m looking to collaborate on front-end projects and UI/UX design.
